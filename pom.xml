@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
@@ -25,3 +26,5 @@
     <finalName>01-mavenapp</finalName>
   </build>
 </project>
+=======
+>>>>>>> 73e980edc8dc7d419e003805f4b0755da8bce29a
